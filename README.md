@@ -1,1 +1,7 @@
-# 518_BLAST_Demo
+# BLAST Demo
+
+Enter the sequence below into https://blast.ncbi.nlm.nih.gov/Blast.cgi
+
+```
+gctctgatcagaacggcagtgagcacaattaccttcttttcaaatccttcagtgacactgcgggaggaaggaggactttgaaacttgaaaggcaggagctcgctttcaacctcaaacgcaagcaggaaagggctctgaaatttgttcagtgctccccatccaccattagcttgtttcttcctctcgcctccaggcatttaagcgctttttgaaaagatgttaagaaattcaatcaccatagagag
+```
